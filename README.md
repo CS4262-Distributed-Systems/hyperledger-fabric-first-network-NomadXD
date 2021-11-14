@@ -1,4 +1,4 @@
-#CS4262-Distributed-Systems
+# CS4262-Distributed-Systems
 
 ## DuplicateAsset transaction
 
